@@ -6,6 +6,12 @@ To check for a patient's condition on diabetes, heart health and cancer identifi
 ### 📍 Applications
 Special examinations exist for many chronic diseases, which can diagnose the disease while it is asymptomatic, with no signs or symptoms. The earlier detection of disease may lead to more cures or longer survival. This possibility has led to health programs which recommend populations to have periodic screening examinations for detecting specific chronic diseases, for example, cancer, diabetes, cardiovascular disease and so on. Such examination schedules when embedded in a public health program are costly .With the help of our project people who cannot travel long distances for regular checkups or those who cant afford these costly tests for early detection of diseases will be at ease.
 
+### 📍 Screenshots
+![Rog Nidaan Login](https://user-images.githubusercontent.com/73497800/136689679-e47901ad-b4d2-43ae-b169-e4117da8c00c.png)
+![Rog Nidaan Forum](https://user-images.githubusercontent.com/73497800/136689684-47774245-0d03-42fe-9df4-3159050cc620.png)
+![Rog Nidaan Diabetes Prediction](https://user-images.githubusercontent.com/73497800/136689685-ab9d308c-9551-408c-84bf-14c7dfc2895b.png)
+
+
 ### 📍 Implementation 
 
 #### Frontend 
